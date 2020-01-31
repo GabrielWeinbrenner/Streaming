@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "title": "asdf",
+      "description": "asdf",
+      "id": 1
+    },
+    {
+      "title": "asdf",
+      "description": "asdf",
+      "id": 2
+    },
+    {
+      "title": "Gekl",
+      "description": "Hello",
+      "id": 3
+    },
+    {
+      "title": "Other Stream",
+      "description": "Some Stream",
+      "id": 4
+    },
+    {
+      "title": "asf",
+      "description": "asdf",
+      "id": 5
+    },
+    {
+      "title": "asafd",
+      "description": "afsd",
+      "id": 6
+    }
+  ]
+}
