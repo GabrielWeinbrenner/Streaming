@@ -14,6 +14,22 @@
       "title": "Second is the new first place",
       "description": "Coming in from France",
       "id": 3
+    },
+    {
+      "title": "Newly created",
+      "description": "Made by me",
+      "id": 4
+    },
+    {
+      "title": "Newly created",
+      "description": "Made by me",
+      "id": 5
+    },
+    {
+      "title": "My stream",
+      "description": "With user ID",
+      "userId": "105369504876901766495",
+      "id": 6
     }
   ]
 }
