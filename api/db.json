@@ -1,34 +1,19 @@
 {
   "streams": [
     {
-      "title": "asdf",
-      "description": "asdf",
+      "title": "Other Stream",
+      "description": "Some Stream",
       "id": 1
     },
     {
-      "title": "asdf",
-      "description": "asdf",
+      "title": "Another strema",
+      "description": "Coming from China",
       "id": 2
     },
     {
-      "title": "Gekl",
-      "description": "Hello",
+      "title": "Second is the new first place",
+      "description": "Coming in from France",
       "id": 3
-    },
-    {
-      "title": "Other Stream",
-      "description": "Some Stream",
-      "id": 4
-    },
-    {
-      "title": "asf",
-      "description": "asdf",
-      "id": 5
-    },
-    {
-      "title": "asafd",
-      "description": "afsd",
-      "id": 6
     }
   ]
 }
